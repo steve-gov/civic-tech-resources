@@ -6,6 +6,7 @@ Useful docs in the civic tech space
 ## BEST PRACTICES
 
 - Digital Services Playbook: https://playbook.cio.gov/
+- 18F field guide on de-risking federal IT projects: https://derisking-guide.18f.gov/federal-field-guide/
 - 18F report on building a case management system: https://www.uscourts.gov/sites/default/files/18f_experiment_and_iterate_supplemental_report_2022_0.pdf
 - Checklist of Requirements for Federal Websites and Digital Services: https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/
 
